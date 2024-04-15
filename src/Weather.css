@@ -1,0 +1,11 @@
+.Weather {
+    color: #202124;
+    border: 1px solid;
+}
+
+.Weather h1{
+    color:#202124;
+    font-size: 24px;
+    font-weight: 150;
+    line-height: 29px;
+}
